@@ -16,6 +16,7 @@ Library:
 - modal_progress_hud_nsn as Circular Indicator
 - flutter_bloc as BLoC 
 - audioplayers as Audio Player
+
 Component:
 - core as constants
 - data as API List and List of Model
