@@ -22,3 +22,11 @@ Component:
 - data as API List and List of Model
 - presentation includes BLoC and widget
 - repository as connector between presentation and data. Either for HTTP Client or SQLite Database.
+
+# Instruction to build and deploy the app:
+
+For now I share my APK here: 
+
+https://drive.google.com/file/d/1IAGMPvHkZDZ-WdIT1_TvX7NITXtHLou7/view?usp=sharing
+
+After download the APK, install the APK.
